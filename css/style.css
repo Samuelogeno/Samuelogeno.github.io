@@ -1,0 +1,85 @@
+.bg-1{
+	background-color: grey;
+
+}
+.bg-2{
+	background-color: black;
+	color:pink;
+}
+.bg-3{
+	background-color: orange;
+}
+
+.bg-4{
+	background-color: grey;
+}
+span{
+	font-size: 2em;
+}
+.a h3,p{
+	font-size: 1.5em;
+}
+.a{
+	height: 16em;
+	margin-top: 3.8em;
+
+}
+.a img{
+	height: 15em;
+
+}
+.b img{
+	height: 13em;
+}
+.navbar{
+	font-size: 1.5em;
+}
+.footer{
+	background-color: ;
+}
+.footer img{
+	height: 2.5em;
+	background-color: black;
+}
+.footer img:hover{
+	opacity: 0.5;
+}
+.grad img{
+	height: 4em;
+}
+.jumbotron{
+	padding: 0;
+	background-color:white;
+}
+.relative{
+	position:relative;
+	bottom:5em;
+	font-weight: bold;
+	color: blue;
+	visibility: hidden;
+	opacity: 1;
+}
+#whatido .col-md-4:hover img{
+	opacity: 0.5;
+	
+}#whatido .col-md-4:hover .relative{
+	visibility: visible;
+	
+}
+.btn-group{
+	padding: 2em;
+}
+.schools{
+	background: url(../img/grad.jpg);
+	background-repeat: no-repeat;
+	background-position:50% 50%;
+	background-size: 10em;
+	
+
+}
+.col-lg-5 table{
+	width: 100%;
+}
+.overflow{
+	overflow-x: auto;
+}
